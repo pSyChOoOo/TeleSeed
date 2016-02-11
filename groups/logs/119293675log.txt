@@ -1,0 +1,8 @@
+[ Sun Feb  7 22:33:19 2016 ]=>  Rambot [182202091] promoted @@Supermol
+ 
+[ Sun Feb  7 22:33:54 2016 ]=>  Rambot [182202091] revoked group link 
+ 
+[ Sun Feb  7 22:34:01 2016 ]=>  Rambot [182202091] requested group link [https://telegram.me/joinchat/Ctwu6wccRuvEN4yrUkvFZQ]
+ 
+[ Sun Feb  7 22:41:04 2016 ]=>  Rambot [0] deleted user  user#id182202091
+ 

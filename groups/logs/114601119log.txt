@@ -1,0 +1,14 @@
+[ Mon Feb  8 00:54:56 2016 ]=>  Yo [918962] used /id 
+ 
+[ Mon Feb  8 01:17:29 2016 ]=>  Yo [918962] used /id 
+ 
+[ Mon Feb  8 04:26:59 2016 ]=>  Rambot [0] tried to change name but failed  
+ 
+[ Mon Feb  8 04:41:12 2016 ]=>  Rambot [0] tried to change name but failed  
+ 
+[ Mon Feb  8 04:42:55 2016 ]=>  Rambot [182202091] Used /help
+ 
+[ Mon Feb  8 04:43:20 2016 ]=>  Group { Teeeestt }  name changed to [ • T3chno <<< to >>> Rambot • ] by Rambot [182202091]
+ 
+[ Mon Feb  8 04:43:20 2016 ]=>  Rambot [0] tried to change name but failed  
+ 
